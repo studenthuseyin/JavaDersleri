@@ -1,0 +1,9 @@
+package odev3_2;
+
+public class StudentManager extends UserManager {
+
+	public void BestStudent() {
+	System.out.println("En İyi Öğrenci Seçim işlemi başarıyla gerçekleşmiştir.");
+	}
+
+}

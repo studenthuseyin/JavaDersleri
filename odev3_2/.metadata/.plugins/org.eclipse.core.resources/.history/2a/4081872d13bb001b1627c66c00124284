@@ -1,0 +1,22 @@
+package odev3_2;
+
+public class InstructorManager {
+	
+
+	public void Add() {
+	System.out.println("Ekleme işlemi başarıyla gerçekleşmiştir.");
+	}
+
+	
+	public void List() {
+	System.out.println("Listeleme işlemi başarıyla gerçekleşmiştir.");
+	}
+	
+	
+	
+	public void Delete() {
+	System.out.println("Silme işlemi başarıyla gerçekleşmiştir.");
+	}
+		
+
+}

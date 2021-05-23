@@ -1,0 +1,16 @@
+package odev3_2;
+
+public class InstructorManager {
+	
+
+	public void Add() {
+		
+		System.out.println("Instructor başarıyla eklenenmiştir");
+	}
+
+public void List() {
+	
+	System.out.println("Instructor başarıyla eklenenmiştir");
+}
+
+}

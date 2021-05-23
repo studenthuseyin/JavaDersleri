@@ -1,0 +1,23 @@
+package odev3_2;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		
+		Instructor instructor1 = new Instructor();
+		instructor1.id = 1;
+		instructor1.firstName = "Engin";
+		instructor1.lastName = "DEMİROĞ";
+		instructor1.giveCourse = "Java + React Kursu";
+		
+		Instructor instructor2 = new Instructor();
+		instructor1.id = 1;
+		instructor1.firstName = "Engin";
+		instructor1.lastName = "DEMİROĞ";
+		instructor1.giveCourse = "Java + React Kursu";
+		
+
+	}
+
+}
